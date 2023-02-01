@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175b7213-ce55-4862-b093-f2e278e7a208" name="Changes" comment="Added bible text parallel corpus source files .">
-      <change afterPath="$PROJECT_DIR$/bible_books.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Zambian-language-parallel-corpus-dataset.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Zambian-language-parallel-corpus-dataset.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    <list default="true" id="175b7213-ce55-4862-b093-f2e278e7a208" name="Changes" comment="successfully creating dataframe .">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +54,26 @@
       <option name="project" value="LOCAL" />
       <updated>1675202859148</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="successfully creating dataframe .">
+      <created>1675206734352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675206734352</updated>
+    </task>
+    <task id="LOCAL-00003" summary="successfully creating dataframe .">
+      <created>1675207281973</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675207281973</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added bible text parallel corpus source files ." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added bible text parallel corpus source files ." />
+    <MESSAGE value="successfully creating dataframe ." />
+    <option name="LAST_COMMIT_MESSAGE" value="successfully creating dataframe ." />
   </component>
 </project>
