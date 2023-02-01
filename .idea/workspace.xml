@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175b7213-ce55-4862-b093-f2e278e7a208" name="Changes" comment="renamed note book file to corpus_to_csv.ipynb" />
+    <list default="true" id="175b7213-ce55-4862-b093-f2e278e7a208" name="Changes" comment="Added markup for the file creation code .">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,13 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675211152563</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added markup for the file creation code .">
+      <created>1675211552110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675211552110</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added bible text parallel corpus source files ." />
     <MESSAGE value="successfully creating dataframe ." />
     <MESSAGE value="renamed note book file to corpus_to_csv.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="renamed note book file to corpus_to_csv.ipynb" />
+    <MESSAGE value="Added markup for the file creation code ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added markup for the file creation code ." />
   </component>
 </project>
