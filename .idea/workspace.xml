@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175b7213-ce55-4862-b093-f2e278e7a208" name="Changes" comment="successfully creating dataframe .">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="175b7213-ce55-4862-b093-f2e278e7a208" name="Changes" comment="renamed note book file to corpus_to_csv.ipynb" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,12 +64,20 @@
       <option name="project" value="LOCAL" />
       <updated>1675207281973</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="renamed note book file to corpus_to_csv.ipynb">
+      <created>1675211152563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675211152563</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added bible text parallel corpus source files ." />
     <MESSAGE value="successfully creating dataframe ." />
-    <option name="LAST_COMMIT_MESSAGE" value="successfully creating dataframe ." />
+    <MESSAGE value="renamed note book file to corpus_to_csv.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed note book file to corpus_to_csv.ipynb" />
   </component>
 </project>
